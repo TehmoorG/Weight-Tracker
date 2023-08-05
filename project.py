@@ -228,7 +228,7 @@ def main():
     The main entry point of the application.
 
     It continuously prompts the user to choose an action: recording weight, viewing weight history, setting weight goal,
-    viewing weight goal or ending the program, and invokes the corresponding methods from the `Weight` class based on user input.
+    viewing weight goal or ending the program, and uses the corresponding methods from the `Weight` class based on user input.
 
     Parameters:
     None
