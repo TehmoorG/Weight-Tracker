@@ -1,4 +1,4 @@
-# Weight-tracker command line programme
+# Weight-tracker command-line programme
 
 ## Overview
 Weight Tracker is a Python command-line application for tracking and visualizing weight changes over time. It provides features for logging weight, setting weight goals, and providing estimations on when these goals will be reached.
